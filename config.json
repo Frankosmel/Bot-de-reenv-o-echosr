@@ -1,0 +1,10 @@
+{
+  "admin_id": 1383931339,
+  "origen_chat_id": -1001234567890,
+  "destinos": [-1002233445566, -1003344556677],
+  "listas_destinos": {
+    "VIP": [-1002233445566, -1003344556677]
+  },
+  "intervalo_global": 60,
+  "timezone": "Europe/Madrid"
+}
